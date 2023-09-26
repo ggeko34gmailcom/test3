@@ -1,4 +1,7 @@
 # templ
+> [!NOTE]
+> `Mack` & `Linux` Build are unstable sometimes!
+
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
