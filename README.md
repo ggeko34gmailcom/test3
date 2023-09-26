@@ -3,8 +3,11 @@
 > `Mack` & `Linux` Build are unstable sometimes!
 
 
+> [!IMPORTANT]  
+> Windows Build are available for only **`x64`** Architecture.
+
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> `Mack` & `Linux` Build are unstable sometimes!
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
